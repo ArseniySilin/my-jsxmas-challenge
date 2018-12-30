@@ -1,6 +1,6 @@
 # my-jsxmas-solution
 
-Marry Xsmas!!
+Merry Xmas!!
 ```
 /*
 ........^........
