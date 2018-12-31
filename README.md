@@ -1,4 +1,4 @@
-# my-jsxmas-challenge solution
+# my-jsxmas-challenge-solution
 
 Merry Xmas!!
 ```
